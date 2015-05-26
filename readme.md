@@ -6,7 +6,7 @@ PureMVC is a lightweight framework for creating applications based upon the clas
 ## Usage
 `var puremvc = require("npmvc");`
 
-`require("npmvc-util-pipes")(puremvc);`
+`require("npmvc-util-asyncproxy")(puremvc);`
 
 ## Status
 Production - [Version 1.0](https://github.com/sshams/puremvc-js-demo-async-sequential/blob/master/VERSION)
