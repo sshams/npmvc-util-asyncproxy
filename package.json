@@ -1,0 +1,39 @@
+{
+  "name": "npmvc-util-asyncproxy",
+  "version": "1.0.0",
+  "description": "puremvc asyncproxy",
+  "engines": {
+    "node": ">=0.10.13"
+  },
+  "author": [
+    {
+      "name": "Saad Shams",
+      "email": "saad@muizz.com"
+    },
+    {
+      "name": "Robbert Streng",
+      "email": "robbert@buiswerk.info"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sshams/npmvc-util-asyncproxy.git"
+  },
+  "licenses": [
+    {
+      "type": "Creative Commons 3.0 Attribution US License",
+      "url": "http://creativecommons.org/licenses/by/3.0/us/"
+    }
+  ],
+  "dependencies": {
+    "npmvc": ">= 1.0.5"
+  },
+  "keywords": [
+    "puremvc",
+    "asyncproxy"
+  ],
+  "main": "./index.js",
+  "directories": {
+    "lib": "./lib"
+  }
+}
